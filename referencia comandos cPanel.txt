@@ -1,0 +1,10 @@
+Comando para registrar hooks
+/usr/local/cpanel/bin/manage_hooks add script /usr/local/cpanel/hooks/email/testeapi2.pl --manual --category Cpanel --event 'Api2::Email::addpop' --stage pre
+/usr/local/cpanel/bin/manage_hooks delete script /usr/local/cpanel/hooks/email/testeapi2.pl --manual --category Cpanel --event 'Api2::Email::addpop' --stage pre
+
+APIs de criação de Email no cPanel
+UAPI::Email::add_pop
+Api2::Email::addpop
+
+Mais informações podem ser encontradas na documentção do cPanel sobre criação de Hooks:
+https://documentation.cpanel.net/
