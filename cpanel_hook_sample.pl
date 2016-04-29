@@ -1,6 +1,6 @@
 #!/usr/local/cpanel/3rdparty/bin/perl
 #Este script tem exemplos de como capturar dados ao ser chamado de dentro de um hook do cPanel/WHM,
-#como gravar dados num arquivo de texto, desserializar um JSON, e gravar os dados numa base de dados
+#como gravar dados num arquivo de texto, desserializar um JSON
 ## Return errors if Perl experiences problems.
 #use Switch;                # for character encoding
 #use strict;                # to make sure your Perl code is well formed
