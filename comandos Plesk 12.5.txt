@@ -1,0 +1,2 @@
+ #Reparar configurações de Site e AppPool danificados. (Quando usei, deletei Site e AppPool, e ele recriou)
+ .\repair.exe --reconfigure-web-site -web-site-name domain.com
