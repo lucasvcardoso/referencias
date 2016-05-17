@@ -1,4 +1,13 @@
-static class Logger
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace NamespaceName
+{
+    static class Logger
     {
         private static StreamWriter _writer;
         public static void LogError(string errorMessage)
@@ -24,3 +33,4 @@ static class Logger
             }
         }
     }
+}
