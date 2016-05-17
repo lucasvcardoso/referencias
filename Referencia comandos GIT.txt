@@ -1,0 +1,16 @@
+- Setar uma segunda URL para o mesmo repositório remoto. Com isso consigo dar PUSH de todas as alterações para os dois repos, com um comando só:
+git remote set-url --add --push origin git://original/repo.git
+git remote set-url --add --push origin git://another/repo.git
+
+git status -> mostra status atual do repositório e sugestões de ações
+git add <file> -> adiciona arquivo ao repositório. Pode ser usado com "." para adicionar todos os arquivos do diretório ao repositório.
+git log -> mostra histórico do ponto atual para o passado.
+git commit -m "mensagem" -> faz o commit informando a mensagem para o commit.
+git log --pretty=online -> mostra o log em uma linha
+git log --graph -> desenha gráfico dos logs
+git log nome_do_branch -> mostra o log do branch escolhido
+git checkout branch_ou_versao -> faz checkout da versão escolhida (aponta o HEAD para a versão escolhida). Ex.: git checkout HEAD^ dá checkout de uma versão acima no histórico do HEAD. i.e. aponta o HEAD para uma versão anterior.
+git branch nome_do_branch -> cria novo branch com o nome escolhido.
+git merge nome_do_branch -> faz merge do branch escolhido.
+git stash -> guarda as alterações numa área separada, possbilitando a mudança de branch como se não houvesse mudanças. Passa a trabalhar com os arquivos antes das mudanças.
+git stash apply [nome_do_stash] -> aplica as modificações salvas no stash de volta nos arquivos de trabalho.
