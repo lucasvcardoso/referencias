@@ -17,7 +17,11 @@ namespace DomainScannerFileMerger
                 _writer.WriteLine(string.Format("{0}[{1}] - {2}", DateTime.Now.ToString("dd/MM/yyyy HH:MM:ss"), logType, logMessage));
             }
         }
-        
+         
+        /// <summary>
+        /// Usage: select the type and use the ToString() method 
+        /// to pass the LogType to the Log() method as a string
+        /// </summary>
         public enum LogType { ERROR, INFO, WARNING };
     }
 }
