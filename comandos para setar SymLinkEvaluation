@@ -1,0 +1,9 @@
+Comandos para setar Symbolic Link Evaluation no Windows:
+
+#Consultar a configuração atual
+fsutil behavior query symlinkevaluation
+
+#Setar
+fsutil behavior set symlinkevaluation L2L:1 L2R:1 R2R:1 R2L:1
+
+Essa configuração deve ser setada com todos os parâmetros com valor 1 para poder instalar o Visual Studio 2015 sem problemas com o Team-alguma-coisa
