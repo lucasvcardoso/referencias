@@ -2,6 +2,10 @@
 git remote set-url --add --push origin git://original/repo.git
 git remote set-url --add --push origin git://another/repo.git
 
+- Setar comando de log mais amigável
+git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%
+d%Creset %s %Cgreen(%cr) %C(bold cyan)<%an>%Creset' --abbrev-commit"
+
 git status -> mostra status atual do repositório e sugestões de ações
 git add <file> -> adiciona arquivo ao repositório. Pode ser usado com "." para adicionar todos os arquivos do diretório ao repositório.
 git log -> mostra histórico do ponto atual para o passado.
