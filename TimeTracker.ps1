@@ -1,13 +1,13 @@
-﻿[string]$text1 = "Implementation of config filters"
-[string]$text2 = "Testing of new feature"
-[string]$text3 = "Documentation updates"
+﻿[string]$text1 = "Implementation of PD-39652"
+[string]$text2 = "Implementation of PD-39963"
+[string]$text3 = "Implementation of PD-39539"
 [int]$times = 3
 [string]$configAddr = "D:\TimeTracker\config.toml"
-[string]$date = "20/01/2020"
+[string]$date = "28/02/2020"
 
-For($j = 21; $j -le 24; $j++){
+#For($j = 12; $j -le 14; $j++){
 
-    $date = [string]$j + "/01/2020";
+#    $date = [string]$j + "/01/2020"
     Write-Host $date 
         
     For ($i=1; $i -le $times; $i++) {
@@ -21,7 +21,7 @@ For($j = 21; $j -le 24; $j++){
     For ($i=1; $i -le $times; $i++) {
         tt load -t $text3 -d $date -c $configAddr
     }
-}
+#}
 
 #For($i = 20; $i -le 24; $i++){
 #
