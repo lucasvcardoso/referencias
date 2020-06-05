@@ -8,13 +8,13 @@ namespace S3Sample
 {
     class GenPresignedURLTest
     {
-        private const string bucketName = "kbcprivate";
-        private const string objectKey = "00_PUBLIC/Degreed/EL0866_1on1_Wrksht.pdf";//"00_PUBLIC/Degreed/EL0866_1on1_Wrksht.pdf";
+        private const string bucketName = "bucket_name";
+        private const string objectKey = "object_key";
         // Specify your bucket region (an example region is shown).
         private static readonly RegionEndpoint bucketRegion = Amazon.RegionEndpoint.GetBySystemName("kbcprivate");
         private static IAmazonS3 s3Client;
-        private static string _awsSecretKey = "BAypaFYAvKz4h57FNkCa2JqejI+nPtxwL603y1ZF";//"BAypaFYAvKz4h57FNkCa2JqejI+nPtxwL603y1ZF";
-        private static string _awsAccessKey = "AKIA2B4R2X6X6IDS2PUB";//"AKIA2B4R2X6X6IDS2PUB";
+        private static string _awsSecretKey = "secret_key";
+        private static string _awsAccessKey = "access_key";
 
         public static void Main()
         {
