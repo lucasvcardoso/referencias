@@ -1,0 +1,14 @@
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\bin\Debug\AwsGeneratePreSignedS3Url.exe.config
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\bin\Debug\AwsGeneratePreSignedS3Url.exe
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\bin\Debug\AwsGeneratePreSignedS3Url.pdb
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\bin\Debug\AWSSDK.Core.dll
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\bin\Debug\AWSSDK.S3.dll
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\bin\Debug\AWSSDK.Core.pdb
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\bin\Debug\AWSSDK.Core.xml
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\bin\Debug\AWSSDK.S3.pdb
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\bin\Debug\AWSSDK.S3.xml
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\obj\Debug\AwsGeneratePreSignedS3Url.csprojAssemblyReference.cache
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\obj\Debug\AwsGeneratePreSignedS3Url.csproj.CoreCompileInputs.cache
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\obj\Debug\AwsGeneratePreSignedS3Url.csproj.CopyComplete
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\obj\Debug\AwsGeneratePreSignedS3Url.exe
+D:\workspace\referencias\C# classes\AwsGeneratePreSignedS3Url\AwsGeneratePreSignedS3Url\obj\Debug\AwsGeneratePreSignedS3Url.pdb
