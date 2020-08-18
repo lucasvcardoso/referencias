@@ -15,7 +15,7 @@ public class StringFinder
             //Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
-            foreach (string d in Directory.GetFiles(@, "FILE_NAME_HERE" , SearchOption.AllDirectories))
+            foreach (string d in Directory.GetFiles(@"file full path here", "pattern do search here" , SearchOption.AllDirectories))
             {
                 //Console.WriteLine();
                 SearchStrings(d);
