@@ -1,0 +1,14 @@
+D:\workspace\entrevista-massive\LinqProblem\LinqProblem\bin\Debug\LinqProblem.exe.config
+D:\workspace\entrevista-massive\LinqProblem\LinqProblem\bin\Debug\LinqProblem.exe
+D:\workspace\entrevista-massive\LinqProblem\LinqProblem\bin\Debug\LinqProblem.pdb
+D:\workspace\entrevista-massive\LinqProblem\LinqProblem\obj\Debug\LinqProblem.csprojResolveAssemblyReference.cache
+D:\workspace\entrevista-massive\LinqProblem\LinqProblem\obj\Debug\LinqProblem.csproj.CoreCompileInputs.cache
+D:\workspace\entrevista-massive\LinqProblem\LinqProblem\obj\Debug\LinqProblem.exe
+D:\workspace\entrevista-massive\LinqProblem\LinqProblem\obj\Debug\LinqProblem.pdb
+D:\Dropbox\Massive\entrevista-massive\LinqProblem\LinqProblem\bin\Debug\LinqProblem.exe.config
+D:\Dropbox\Massive\entrevista-massive\LinqProblem\LinqProblem\bin\Debug\LinqProblem.exe
+D:\Dropbox\Massive\entrevista-massive\LinqProblem\LinqProblem\bin\Debug\LinqProblem.pdb
+D:\Dropbox\Massive\entrevista-massive\LinqProblem\LinqProblem\obj\Debug\LinqProblem.csprojAssemblyReference.cache
+D:\Dropbox\Massive\entrevista-massive\LinqProblem\LinqProblem\obj\Debug\LinqProblem.csproj.CoreCompileInputs.cache
+D:\Dropbox\Massive\entrevista-massive\LinqProblem\LinqProblem\obj\Debug\LinqProblem.exe
+D:\Dropbox\Massive\entrevista-massive\LinqProblem\LinqProblem\obj\Debug\LinqProblem.pdb

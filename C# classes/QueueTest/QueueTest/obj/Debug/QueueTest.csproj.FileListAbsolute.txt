@@ -1,0 +1,14 @@
+D:\workspace\entrevista-massive\QueueTest\QueueTest\bin\Debug\QueueTest.exe.config
+D:\workspace\entrevista-massive\QueueTest\QueueTest\bin\Debug\QueueTest.exe
+D:\workspace\entrevista-massive\QueueTest\QueueTest\bin\Debug\QueueTest.pdb
+D:\workspace\entrevista-massive\QueueTest\QueueTest\obj\Debug\QueueTest.csprojResolveAssemblyReference.cache
+D:\workspace\entrevista-massive\QueueTest\QueueTest\obj\Debug\QueueTest.csproj.CoreCompileInputs.cache
+D:\workspace\entrevista-massive\QueueTest\QueueTest\obj\Debug\QueueTest.exe
+D:\workspace\entrevista-massive\QueueTest\QueueTest\obj\Debug\QueueTest.pdb
+D:\Dropbox\Massive\entrevista-massive\QueueTest\QueueTest\bin\Debug\QueueTest.exe.config
+D:\Dropbox\Massive\entrevista-massive\QueueTest\QueueTest\bin\Debug\QueueTest.exe
+D:\Dropbox\Massive\entrevista-massive\QueueTest\QueueTest\bin\Debug\QueueTest.pdb
+D:\Dropbox\Massive\entrevista-massive\QueueTest\QueueTest\obj\Debug\QueueTest.csprojAssemblyReference.cache
+D:\Dropbox\Massive\entrevista-massive\QueueTest\QueueTest\obj\Debug\QueueTest.csproj.CoreCompileInputs.cache
+D:\Dropbox\Massive\entrevista-massive\QueueTest\QueueTest\obj\Debug\QueueTest.exe
+D:\Dropbox\Massive\entrevista-massive\QueueTest\QueueTest\obj\Debug\QueueTest.pdb
